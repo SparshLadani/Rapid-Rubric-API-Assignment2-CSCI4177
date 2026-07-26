@@ -2,9 +2,13 @@ import "dotenv/config";
 import express from "express";
 import rateLimit from "express-rate-limit";
 import submissionsRouter from "./routes/submissions.js";
+import compression from 'compression';
+import helmet from 'helmet';
 
 const app = express();
+app.use(helmet());
 app.use(express.json({ limit: '1mb' }));
+app.use(compression());
 
 app.use(rateLimit({
     windowMs: 60*1000,

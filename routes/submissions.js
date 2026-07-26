@@ -140,12 +140,18 @@ router.get(
         const callerID = req.user.id;
         const callerRole = req.user.user_metadata?.role;
 
+        const cached = cache.get(submissionID);
+        if (cached) {
+            res.set('Cache-Control', 'private, max-age=60');
+            return res.status(200).json({ data: cached });
+        }
+
         const {data: submission, error} = await supabase
             .from('submissions')
             .select('*')
             .eq('submission_id', submissionID)
             .single();
-        
+
         if(error || !submission){
             return res.status(404).json({
                 error: {code: 'NOT_FOUND', message: 'Submission not found'}
@@ -164,6 +170,9 @@ router.get(
             });
         }
 
+        cache.set(submissionID, submission);
+        res.set('Cache-Control', 'private, max-age=60');
+        res.set('ETag', `"${submission.submission_id}-${submission.version}"`);
         return res.status(200).json({
             data: {
                 submission_id: submission.submission_id,
