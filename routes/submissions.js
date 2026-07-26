@@ -1,7 +1,9 @@
 import express from "express";
 import multer from "multer";
 import { verifyTOken, requireRole, supabase } from "../middleware/auth.js";
+import NodeCache from 'node-cache';
 
+const cache = new NodeCache({ stdTTL: 60 });
 const router = express.Router();
 
 const upload = multer({
