@@ -1,0 +1,95 @@
+ID,Req. Timestamp,Resp. Timestamp,Method,URL,Code,Reason,RTT,Size Resp. Header,Size Resp. Body
+9,Sun Jul 26 21:19:39 ADT 2026,Sun Jul 26 21:19:39 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/8099527959260176786,401,Unauthorized,386,1157,95
+11,Sun Jul 26 21:19:39 ADT 2026,Sun Jul 26 21:19:39 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/WEB-INF/web.xml,404,Not Found,164,1154,59
+12,Sun Jul 26 21:19:39 ADT 2026,Sun Jul 26 21:19:39 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/WEB-INF/applicationContext.xml,404,Not Found,179,1154,59
+13,Sun Jul 26 21:19:39 ADT 2026,Sun Jul 26 21:19:40 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17?-s,401,Unauthorized,167,1157,95
+14,Sun Jul 26 21:19:40 ADT 2026,Sun Jul 26 21:19:40 ADT 2026,POST,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input,403,Forbidden,143,429,221307
+15,Sun Jul 26 21:19:40 ADT 2026,Sun Jul 26 21:19:40 ADT 2026,POST,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input,403,Forbidden,44,429,221307
+16,Sun Jul 26 21:19:40 ADT 2026,Sun Jul 26 21:19:41 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,200,OK,905,1192,295
+17,Sun Jul 26 21:19:43 ADT 2026,Sun Jul 26 21:19:43 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,401,Unauthorized,162,1157,95
+18,Sun Jul 26 21:19:43 ADT 2026,Sun Jul 26 21:19:43 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/favicon.ico,404,Not Found,160,1154,59
+19,Sun Jul 26 21:19:44 ADT 2026,Sun Jul 26 21:19:44 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17?name=abc,401,Unauthorized,152,1157,95
+20,Sun Jul 26 21:19:45 ADT 2026,Sun Jul 26 21:19:45 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17?class.module.classLoader.DefaultAssertionStatus=nonsense,200,OK,454,1185,418
+21,Sun Jul 26 21:19:45 ADT 2026,Sun Jul 26 21:19:45 ADT 2026,POST,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,404,Not Found,159,1154,59
+22,Sun Jul 26 21:19:45 ADT 2026,Sun Jul 26 21:19:45 ADT 2026,POST,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,404,Not Found,236,1154,59
+23,Sun Jul 26 21:19:45 ADT 2026,Sun Jul 26 21:19:46 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/latest/meta-data/,421,Misdirected Request,59,193,171
+24,Sun Jul 26 21:19:46 ADT 2026,Sun Jul 26 21:19:46 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/latest/meta-data/,421,Misdirected Request,18,193,171
+25,Sun Jul 26 21:19:46 ADT 2026,Sun Jul 26 21:19:46 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/computeMetadata/v1/,421,Misdirected Request,18,193,171
+26,Sun Jul 26 21:19:46 ADT 2026,Sun Jul 26 21:19:46 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/computeMetadata/v1/,421,Misdirected Request,18,193,171
+27,Sun Jul 26 21:19:46 ADT 2026,Sun Jul 26 21:19:46 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/opc/v1/instance/,421,Misdirected Request,20,193,171
+28,Sun Jul 26 21:19:46 ADT 2026,Sun Jul 26 21:19:46 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/opc/v1/instance/,421,Misdirected Request,19,193,171
+29,Sun Jul 26 21:19:46 ADT 2026,Sun Jul 26 21:19:46 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/latest/meta-data/,421,Misdirected Request,18,193,171
+30,Sun Jul 26 21:19:46 ADT 2026,Sun Jul 26 21:19:46 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/latest/meta-data/,421,Misdirected Request,17,193,171
+31,Sun Jul 26 21:19:46 ADT 2026,Sun Jul 26 21:19:46 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/metadata/instance,421,Misdirected Request,18,193,171
+32,Sun Jul 26 21:19:46 ADT 2026,Sun Jul 26 21:19:46 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17/,200,OK,441,1185,418
+33,Sun Jul 26 21:19:46 ADT 2026,Sun Jul 26 21:19:46 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/elmah.axd,404,Not Found,158,1154,59
+34,Sun Jul 26 21:19:46 ADT 2026,Sun Jul 26 21:19:47 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/trace.axd,404,Not Found,904,1154,63
+35,Sun Jul 26 21:19:47 ADT 2026,Sun Jul 26 21:19:48 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/.htaccess,404,Not Found,612,1154,63
+36,Sun Jul 26 21:19:48 ADT 2026,Sun Jul 26 21:19:48 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/.env,404,Not Found,403,1154,63
+37,Sun Jul 26 21:19:48 ADT 2026,Sun Jul 26 21:19:48 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/zap6162553546879254004,404,Not Found,155,1154,59
+38,Sun Jul 26 21:19:48 ADT 2026,Sun Jul 26 21:19:48 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/actuator/health,404,Not Found,171,1154,59
+39,Sun Jul 26 21:19:48 ADT 2026,Sun Jul 26 21:19:48 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/.zap7687554884604831015,404,Not Found,158,1154,59
+40,Sun Jul 26 21:19:48 ADT 2026,Sun Jul 26 21:19:48 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/actuator/health,404,Not Found,164,1154,59
+41,Sun Jul 26 21:19:48 ADT 2026,Sun Jul 26 21:19:49 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/lfm.php,404,Not Found,162,1154,59
+42,Sun Jul 26 21:19:49 ADT 2026,Sun Jul 26 21:19:49 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/.idea/WebServers.xml,404,Not Found,150,1154,59
+43,Sun Jul 26 21:19:49 ADT 2026,Sun Jul 26 21:19:49 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/config/databases.yml,404,Not Found,160,1154,59
+44,Sun Jul 26 21:19:49 ADT 2026,Sun Jul 26 21:19:49 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/config/database.yml,404,Not Found,156,1154,59
+45,Sun Jul 26 21:19:49 ADT 2026,Sun Jul 26 21:19:49 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/.git/config,404,Not Found,159,1154,59
+46,Sun Jul 26 21:19:49 ADT 2026,Sun Jul 26 21:19:49 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/.svn/entries,404,Not Found,153,1154,59
+47,Sun Jul 26 21:19:49 ADT 2026,Sun Jul 26 21:19:50 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/.svn/wc.db,404,Not Found,163,1154,59
+48,Sun Jul 26 21:19:50 ADT 2026,Sun Jul 26 21:19:50 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/CVS/root,404,Not Found,149,1154,59
+49,Sun Jul 26 21:19:50 ADT 2026,Sun Jul 26 21:19:50 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/server-status,404,Not Found,150,1154,59
+50,Sun Jul 26 21:19:50 ADT 2026,Sun Jul 26 21:19:50 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/core,404,Not Found,155,1154,59
+51,Sun Jul 26 21:19:50 ADT 2026,Sun Jul 26 21:19:50 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/sftp-config.json,404,Not Found,162,1154,59
+52,Sun Jul 26 21:19:50 ADT 2026,Sun Jul 26 21:19:50 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/WS_FTP.ini,404,Not Found,159,1154,59
+53,Sun Jul 26 21:19:50 ADT 2026,Sun Jul 26 21:19:50 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/ws_ftp.ini,404,Not Found,152,1154,59
+54,Sun Jul 26 21:19:50 ADT 2026,Sun Jul 26 21:19:51 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/WS_FTP.INI,404,Not Found,155,1154,59
+55,Sun Jul 26 21:19:51 ADT 2026,Sun Jul 26 21:19:51 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/filezilla.xml,404,Not Found,161,1154,59
+56,Sun Jul 26 21:19:51 ADT 2026,Sun Jul 26 21:19:51 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/sitemanager.xml,404,Not Found,154,1154,59
+57,Sun Jul 26 21:19:51 ADT 2026,Sun Jul 26 21:19:51 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/FileZilla.xml,404,Not Found,155,1154,59
+58,Sun Jul 26 21:19:51 ADT 2026,Sun Jul 26 21:19:51 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/winscp.ini,404,Not Found,150,1154,59
+59,Sun Jul 26 21:19:51 ADT 2026,Sun Jul 26 21:19:51 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/WinSCP.ini,404,Not Found,158,1154,59
+60,Sun Jul 26 21:19:51 ADT 2026,Sun Jul 26 21:19:52 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/.DS_Store,404,Not Found,164,1154,59
+61,Sun Jul 26 21:19:52 ADT 2026,Sun Jul 26 21:19:52 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/.php_cs.cache,404,Not Found,151,1154,59
+62,Sun Jul 26 21:19:52 ADT 2026,Sun Jul 26 21:19:52 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/DEADJOE,404,Not Found,150,1154,59
+63,Sun Jul 26 21:19:52 ADT 2026,Sun Jul 26 21:19:52 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/sites/default/private/files/backup_migrate/scheduled/test.txt,404,Not Found,159,1154,59
+64,Sun Jul 26 21:19:52 ADT 2026,Sun Jul 26 21:19:52 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/app/etc/local.xml,404,Not Found,161,1154,59
+65,Sun Jul 26 21:19:52 ADT 2026,Sun Jul 26 21:19:52 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/server.key,404,Not Found,151,1154,59
+66,Sun Jul 26 21:19:52 ADT 2026,Sun Jul 26 21:19:53 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/privatekey.key,404,Not Found,159,1154,59
+67,Sun Jul 26 21:19:53 ADT 2026,Sun Jul 26 21:19:53 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/myserver.key,404,Not Found,160,1154,59
+68,Sun Jul 26 21:19:53 ADT 2026,Sun Jul 26 21:19:53 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/key.pem,404,Not Found,157,1154,59
+69,Sun Jul 26 21:19:53 ADT 2026,Sun Jul 26 21:19:53 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/id_rsa,404,Not Found,152,1154,59
+70,Sun Jul 26 21:19:53 ADT 2026,Sun Jul 26 21:19:53 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/id_dsa,404,Not Found,147,1154,59
+71,Sun Jul 26 21:19:53 ADT 2026,Sun Jul 26 21:19:53 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/.ssh/id_rsa,404,Not Found,152,1154,59
+72,Sun Jul 26 21:19:53 ADT 2026,Sun Jul 26 21:19:53 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/.ssh/id_dsa,404,Not Found,153,1154,59
+73,Sun Jul 26 21:19:53 ADT 2026,Sun Jul 26 21:19:54 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/adminer.php,404,Not Found,157,1154,59
+74,Sun Jul 26 21:19:54 ADT 2026,Sun Jul 26 21:19:54 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/vb_test.php,404,Not Found,153,1154,59
+75,Sun Jul 26 21:19:54 ADT 2026,Sun Jul 26 21:19:54 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/CHANGELOG.txt,404,Not Found,165,1154,59
+76,Sun Jul 26 21:19:54 ADT 2026,Sun Jul 26 21:19:54 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/sites/default/files/.ht.sqlite,404,Not Found,175,1154,59
+77,Sun Jul 26 21:19:54 ADT 2026,Sun Jul 26 21:19:54 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/composer.json,404,Not Found,152,1154,59
+78,Sun Jul 26 21:19:54 ADT 2026,Sun Jul 26 21:19:54 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/composer.lock,404,Not Found,156,1154,59
+79,Sun Jul 26 21:19:54 ADT 2026,Sun Jul 26 21:19:55 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/vim_settings.xml,404,Not Found,153,1154,59
+80,Sun Jul 26 21:19:55 ADT 2026,Sun Jul 26 21:19:55 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/server-info,404,Not Found,161,1154,59
+81,Sun Jul 26 21:19:55 ADT 2026,Sun Jul 26 21:19:55 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/phpinfo.php,404,Not Found,151,1154,59
+82,Sun Jul 26 21:19:55 ADT 2026,Sun Jul 26 21:19:55 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/info.php,404,Not Found,154,1154,59
+83,Sun Jul 26 21:19:55 ADT 2026,Sun Jul 26 21:19:55 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/i.php,404,Not Found,161,1154,59
+84,Sun Jul 26 21:19:55 ADT 2026,Sun Jul 26 21:19:55 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/test.php,404,Not Found,162,1154,59
+85,Sun Jul 26 21:19:55 ADT 2026,Sun Jul 26 21:19:56 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/_wpeprivate/config.json,404,Not Found,155,1154,59
+86,Sun Jul 26 21:19:56 ADT 2026,Sun Jul 26 21:19:56 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/_framework/blazor.boot.json,404,Not Found,154,1154,59
+87,Sun Jul 26 21:19:56 ADT 2026,Sun Jul 26 21:19:56 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/.hg,404,Not Found,165,1154,59
+88,Sun Jul 26 21:19:56 ADT 2026,Sun Jul 26 21:19:56 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/.bzr,404,Not Found,150,1154,59
+89,Sun Jul 26 21:19:56 ADT 2026,Sun Jul 26 21:19:56 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/._darcs,404,Not Found,149,1154,59
+90,Sun Jul 26 21:19:56 ADT 2026,Sun Jul 26 21:19:56 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/BitKeeper,404,Not Found,155,1154,59
+91,Sun Jul 26 21:19:56 ADT 2026,Sun Jul 26 21:19:57 ADT 2026,GET,http://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,301,Moved Permanently,235,388,149
+92,Sun Jul 26 21:19:57 ADT 2026,Sun Jul 26 21:19:57 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,200,OK,429,1185,418
+94,Sun Jul 26 21:19:57 ADT 2026,Sun Jul 26 21:19:57 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,200,OK,360,1185,418
+96,Sun Jul 26 21:19:57 ADT 2026,Sun Jul 26 21:19:58 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,200,OK,367,1185,418
+98,Sun Jul 26 21:19:58 ADT 2026,Sun Jul 26 21:19:58 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,200,OK,476,1185,418
+100,Sun Jul 26 21:19:58 ADT 2026,Sun Jul 26 21:19:59 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,200,OK,367,1185,418
+102,Sun Jul 26 21:19:59 ADT 2026,Sun Jul 26 21:19:59 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,200,OK,429,1185,418
+104,Sun Jul 26 21:19:59 ADT 2026,Sun Jul 26 21:20:00 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,200,OK,430,1185,418
+106,Sun Jul 26 21:20:00 ADT 2026,Sun Jul 26 21:20:00 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,200,OK,415,1185,418
+108,Sun Jul 26 21:20:00 ADT 2026,Sun Jul 26 21:20:00 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,200,OK,366,1185,418
+110,Sun Jul 26 21:20:00 ADT 2026,Sun Jul 26 21:20:01 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,200,OK,258,1185,418
+112,Sun Jul 26 21:20:01 ADT 2026,Sun Jul 26 21:20:01 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,200,OK,273,1185,418
+114,Sun Jul 26 21:20:01 ADT 2026,Sun Jul 26 21:20:01 ADT 2026,GET,https://rapid-rubric-api-assignment2-csci4177.onrender.com/api/v1/submissions/580406da-ed72-4974-bc01-fa2699dcde17,200,OK,300,1185,418
